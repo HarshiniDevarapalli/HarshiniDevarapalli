@@ -8,7 +8,7 @@ I enjoy building intelligent systems, exploring emerging technologies, and apply
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * B.Tech in Computer Science Engineering at VNR VJIET
 * Pursuing BS in Data Science from IIT Madras
@@ -19,7 +19,7 @@ I enjoy building intelligent systems, exploring emerging technologies, and apply
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -56,7 +56,7 @@ I enjoy building intelligent systems, exploring emerging technologies, and apply
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### Aviation Near Miss Intelligence Platform
 
@@ -80,7 +80,7 @@ An intelligent recruitment automation agent that streamlines candidate screening
 
 ---
 
-## 🤝 Leadership & Involvement
+## Leadership & Involvement
 
 * **Student Leadership Coordinator, ISTE (Indian Society for Technical Education)** – Coordinating technical events, workshops, and student engagement initiatives to foster learning and collaboration.
 
@@ -93,7 +93,7 @@ An intelligent recruitment automation agent that streamlines candidate screening
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/harshini-devarapalli-706b23261/
 * Email: devarapalliharshini10@gmail.com
