@@ -69,7 +69,7 @@ I enjoy exploring emerging technologies, developing scalable AI applications, an
 
 An AI-powered multi-agent decision intelligence platform that recommends the optimal next action by combining enterprise context, Retrieval-Augmented Generation (RAG), and autonomous reasoning agents. The system aggregates information from multiple sources, evaluates risks and opportunities, and generates explainable recommendations to support faster, data-driven business decisions.
 
-**Tech Stack:** Python, LangGraph, LangChain, FastAPI, ChromaDB, OpenAI, Vector Embeddings, RAG
+**Tech Stack:** Python, LangGraph, LangChain, FastAPI, ChromaDB, Gemini, Vector Embeddings, RAG
 
 ---
 
