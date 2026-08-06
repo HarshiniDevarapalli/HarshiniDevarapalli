@@ -2,7 +2,7 @@
 
 ### Computer Science Student | AI & ML Enthusiast | Building Intelligent Systems
 
-I'm a third-year Computer Science Engineering student at **VNR Vignana Jyothi Institute of Engineering and Technology (VNR VJIET)**, currently pursuing a **BS in Data Science from IIT Madras**. I'm passionate about Artificial Intelligence, Machine Learning, Generative AI, and Software Development, with a keen interest in building intelligent systems that solve real-world problems.
+I'm a third-year Computer Science Engineering student at **VNR Vignana Jyothi Institute of Engineering and Technology**, currently pursuing a **BS in Data Science and Programming from IIT Madras**. I'm passionate about Artificial Intelligence, Machine Learning, Generative AI and Software Development, with a keen interest in building intelligent systems that solve real-world problems.
 
 I enjoy exploring emerging technologies, developing scalable AI applications, and continuously expanding my knowledge through projects, research, and problem-solving.
 
